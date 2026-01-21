@@ -1,7 +1,7 @@
 # Practica Realizada por :
 DAVID MORENO LÓPEZ
 
-# Despliegue de una aplicación Python con Flask y Gunicorn#
+# Despliegue de una aplicación Python con Flask y Gunicorn 
 Para esta actividad he reutilizado los mismos archivos y Máquina Virtual que en Tomcat y Maven: Aplicaciones Java 
 
 
@@ -13,6 +13,7 @@ El primer paso es descargar el gestor de paquetes de Python, el paquete Pinpenv,
 
 A continuación creamos el directorio del proyecto y le damos los permisos correspondientes:
 ![Imagen status nginx](img/cap2.png)
+
 Después creamos un archivo .env que contendrá las variables necesarias y ejecutamos nuestro entorno virtual:
 ![Imagen status nginx](img/cap3.png)
 
